@@ -18,12 +18,11 @@ Welcome to the FastAPI Pizza Ordering System, a dynamic backend solution designe
 
 ### Installation
 
-1. Clone the repository:
-   git clone https://github.com/yourgithub/fastapi-pizza-ordering.git
-2. Navigate to the project directory:cd fastapi-pizza-ordering
-3. Install the required dependencies:pip install -r requirements.txt
+1. Clone the repository: **git clone https://github.com/yourgithub/fastapi-pizza-ordering.git**
+2. Navigate to the project directory: **cd fastapi-pizza-ordering**
+3. Install the required dependencies: **pip install -r requirements.txt**
 
 ### Running the Application
 
-1. Launch the server with Uvicorn:uvicorn main:app --reload
+1. Launch the server with Uvicorn: **uvicorn main:app --reload**
 2. Access the automatic API documentation by navigating to `http://127.0.0.1:8000/docs` in your web browser.
