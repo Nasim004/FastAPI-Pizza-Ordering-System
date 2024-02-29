@@ -1,0 +1,16 @@
+2024-02-29 15:32:40 - root - INFO - This is an info message
+2024-02-29 15:32:40 - root - ERROR - This is an error message
+2024-02-29 15:32:52 - root - INFO - This is an info message
+2024-02-29 15:32:52 - root - ERROR - This is an error message
+2024-02-29 15:32:57 - root - INFO - This is an info message
+2024-02-29 15:32:57 - root - ERROR - This is an error message
+2024-02-29 15:33:00 - root - INFO - This is an info message
+2024-02-29 15:33:00 - root - ERROR - This is an error message
+2024-02-29 15:33:05 - root - INFO - This is an info message
+2024-02-29 15:33:05 - root - ERROR - This is an error message
+2024-02-29 15:33:11 - root - INFO - This is an info message
+2024-02-29 15:33:11 - root - ERROR - This is an error message
+2024-02-29 15:33:16 - root - INFO - This is an info message
+2024-02-29 15:33:16 - root - ERROR - This is an error message
+2024-02-29 15:35:18 - orders.order_routes - ERROR - User is not admin
+NoneType: None
